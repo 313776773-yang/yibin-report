@@ -1,0 +1,21 @@
+{
+  "project": "重百宜宾商都AI总经理经营决策中枢",
+  "version": "V3.0 成品版",
+  "build_date": "2026-07-15",
+  "entry": "index.html",
+  "offline_entry": "宜宾商都_AI总经理经营决策中枢_单文件演示版.html",
+  "one_click_refresh": "一键更新数据并打开看板.command",
+  "data_source": "data_source/宜宾商都AI经营决策中枢_数据确认与演示模板_v1.0.xlsx",
+  "data_snapshot": "data/dashboard_data.json",
+  "pages": [
+    "经营总览",
+    "北极星因果树",
+    "AI决策中心",
+    "七大经营域",
+    "行动闭环",
+    "数据治理"
+  ],
+  "data_mode": "内置演示数据",
+  "excel_import_in_browser": true,
+  "network_dependency": false
+}
